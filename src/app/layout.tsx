@@ -1,3 +1,5 @@
+import '../../globals.css'
+
 export const metadata = {
   title: 'Fady Kuzman',
   description: 'Portfolio of Fady Kuzman',

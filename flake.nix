@@ -38,10 +38,10 @@
               packages = with pkgs; [
                 nodejs
                 nodePackages.vercel
-                nodePackages.tailwindcss
+                tailwindcss
                 nodePackages.prettier
                 nodePackages.postcss
-                nodePackages.autoprefixer
+                autoprefixer
                 nodePackages.eslint
               ];
 
