@@ -104,9 +104,9 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="bg-slate-800 py-16">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-8">Let's Connect</h2>
+          <h2 className="text-3xl font-bold mb-8">Let&apos;s Connect</h2>
           <p className="text-lg text-gray-300 mb-8">
-            Interested in working together? Let's talk!
+            Interested in working together? Let&apos;s talk!
           </p>
           <div className="flex justify-center gap-6">
             <a href="mailto:fady.kuzman@pm.me" className="text-blue-400 hover:text-blue-300">
