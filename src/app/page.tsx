@@ -39,22 +39,27 @@ export default function Home() {
           <div className="bg-slate-800 p-6 rounded-lg">
             <h3 className="text-xl font-bold mb-4 text-blue-400">Technical Leadership & Architecture</h3>
             <ul className="text-gray-300 space-y-2">
-              <li>• Designed microservice architectures using Domain-Driven Design</li>
-              <li>• Built event-sourced systems with CQRS patterns</li>
-              <li>• Led technical decision-making and mentored teams</li>
+              <li>• Build Microservices using Domain-Driven Design</li>
+              <li>• Build Microservices using Hexagonal/Clean Architecture</li>
+              <li>• Build Event-Sourced systems with CQRS Patterns</li>
+              <li>• Lead technical decision-making and mentoring teams</li>
             </ul>
           </div>
           <div className="bg-slate-800 p-6 rounded-lg">
             <h3 className="text-xl font-bold mb-4 text-blue-400">Full-Stack Development Excellence</h3>
             <ul className="text-gray-300 space-y-2">
               <li>• Modern practices: TDD, Clean Code, Pair Programming</li>
-              <li>• Cloud & DevOps: Kubernetes, Docker, GitLab CI/CD</li>
+              <li>• DevOps: Kubernetes, Docker, CI/CD using Gitlab or Github</li>
+              <li>• Cloud: Ms Azure, AWS</li>
               <li>• Enterprise-grade messaging with RabbitMQ, Kafka</li>
+              <li>• Event-Sourcing using Axon</li>
+              <li>• Durable Executions and Process automation</li>
             </ul>
           </div>
           <div className="bg-slate-800 p-6 rounded-lg">
             <h3 className="text-xl font-bold mb-4 text-blue-400">Industry Expertise</h3>
             <ul className="text-gray-300 space-y-2">
+              <li>• Enterprise Software for financial institutions</li>
               <li>• Enterprise Software for German government projects</li>
               <li>• IoT & Smart Devices for connected systems</li>
               <li>• ML-powered frameworks for research applications</li>
