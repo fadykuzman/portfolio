@@ -78,6 +78,15 @@ export default function Home() {
                   <div>Python</div>
                 </div>
               </div>
+			  
+              <div className="bg-slate-700 p-4 rounded-lg">
+                <h4 className="font-bold text-blue-400 mb-2">Frontend</h4>
+                <div className="text-sm space-y-1">
+                  <div>Angular</div>
+                  <div>ReactJS</div>
+                  <div>Next.js</div>
+                </div>
+              </div>
               <div className="bg-slate-700 p-4 rounded-lg">
                 <h4 className="font-bold text-blue-400 mb-2">Databases</h4>
                 <div className="text-sm space-y-1">
