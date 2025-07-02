@@ -6,7 +6,7 @@ export default function Home() {
       <section className="container mx-auto px-4 py-20">
         <div className="text-center max-w-4xl mx-auto">
           <h1 className="text-5xl font-bold mb-4">
-            Hi, I'm <span className="text-blue-400">Fady Kuzman</span>
+            Hi, I&apos;m <span className="text-blue-400">Fady Kuzman</span>
           </h1>
           <h2 className="text-2xl text-blue-300 mb-4">Senior Software Engineer & Tech Lead</h2>
           <p className="text-xl text-gray-300 mb-8 leading-relaxed">
@@ -170,7 +170,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8">Ready to Tackle Your Next Software Challenge</h2>
           <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
             Looking for proven expertise in clean architecture and exceptional results? 
-            Let's discuss how I can help transform your complex requirements into scalable solutions.
+            Let&apos;s discuss how I can help transform your complex requirements into scalable solutions.
           </p>
           <div className="flex justify-center gap-6">
             <a 
